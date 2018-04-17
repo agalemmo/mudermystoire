@@ -4,10 +4,10 @@
 **Contributors**: Amanda Galemmo and Noah Cody
 
 **Checklist:**
--[ ] Map
-  -[ ] 
--[ ] Turn counter/hotseat functionality
-  -[ ] Make it so that the three cards are shadowed and can be seen by holding mouse over/clicking on cards.
+- [ ] Map
+  - [ ] 
+- [ ] Turn counter/hotseat functionality
+  - [ ] Make it so that the three cards are shadowed and can be seen by holding mouse over/clicking on cards.
   
   
   
