@@ -12,8 +12,11 @@ public class PlayerCharacter : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float xPos = transform.position.x + (Input.GetAxis("Horizontal")) * paddleSpeed;
-        playerPos = new Vector2(Mathf.Clamp(xPos, -2.84f, 2.84f), -1.8f);
+        float xPos = transform.position.x + (Input.GetAxis("Horizontal")) * playerSpeed; //account for wasd as well
+        float yPos = transform.position.y + (Input.GetAxis("Vertical")) * playerSpeed;
+        playerPos = new Vector2(xPos, yPos);
         transform.position = playerPos;
     }
+
+    //on trigger enter method for e key. look up platformer tutorial for this.
 }
