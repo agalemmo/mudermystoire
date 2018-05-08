@@ -8,14 +8,15 @@ oooOOOOOoooooOooOoOOOOOoOOOooOOo
   - [ ] Playercharacter
     - Interaction
     - moves with 'wasd' or arrow keys
+  - [ ] Flashlight
+    - Folino is dim & flashlight is item + area light
   - [ ] Doors
     - Scene-to-scene movement
   - [ ] NPCs
     - Dialogue trigger
   - [ ] Various items
   - [ ] Pipe game
-  - [ ] Flashlight
-    - Folino is dim & flashlight is item + area light
+
 
 - Maps
   - [ ] Bathroom
